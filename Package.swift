@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VesperPlayerKit",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.1/VesperPlayerKit.xcframework.zip",
-            checksum: "bda2d72470ae6bf9fcb6113b36dbf60504cd2c1071ddaebea6241bff088cb14b"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.2/VesperPlayerKit.xcframework.zip",
+            checksum: "ece154f3b1900b237c56bb37de41022eb3e0c4cb43e4ef043cd6505d318826e8"
         ),
         .target(
             name: "VesperPlayerKitUI",
