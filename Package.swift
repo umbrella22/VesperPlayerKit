@@ -31,33 +31,33 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VesperPlayerKit",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperPlayerKit.xcframework.zip",
-            checksum: "183487ea5e32337163a26a787248a83cf7dfab4bbb1c39f7bb00635f94b94e5c"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperPlayerKit.xcframework.zip",
+            checksum: "be074da099a00a4bfca1ce9535e8c997512efe391cbbb99aedd793c775bca5c0"
         ),
         .binaryTarget(
             name: "VesperFFmpegAVCodec",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperFFmpegAVCodec.xcframework.zip",
-            checksum: "9f4aed46f85f3f17cb6c5c6a9f0ab4105f8278fd828d14fca47818e7a983ab28"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperFFmpegAVCodec.xcframework.zip",
+            checksum: "ff91f18afd063df0e478297129606492fca128d94b9965b284fb313ed748322e"
         ),
         .binaryTarget(
             name: "VesperFFmpegAVFormat",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperFFmpegAVFormat.xcframework.zip",
-            checksum: "434799717a3c3c3763f7b2695766f9cb11a0f1fa24d2f9c051c5af0fd991ba77"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperFFmpegAVFormat.xcframework.zip",
+            checksum: "09a0af0b3402c02f871d4b1f1e98da5de6537af7f5f1b25e69229f6e659f5263"
         ),
         .binaryTarget(
             name: "VesperFFmpegAVUtil",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperFFmpegAVUtil.xcframework.zip",
-            checksum: "d06ffd79a0cd96e3b2afb0da42859c14d7c9645c402dbb4233de0e32214affe8"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperFFmpegAVUtil.xcframework.zip",
+            checksum: "e452af14b99c111af415c74a6b7b1c68a01a31755d36d38e5df8b460c1ebdcdd"
         ),
         .binaryTarget(
             name: "VesperPlayerRemuxFfmpegPlugin",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperPlayerRemuxFfmpegPlugin.xcframework.zip",
-            checksum: "cc5b795897bb039fae1bf0c7efb92114d67777807ae80421f274c06e94bed184"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperPlayerRemuxFfmpegPlugin.xcframework.zip",
+            checksum: "4449082ab02cd26350c31825c645c2a4270d648522b9edc9cdf2a6d3f294029e"
         ),
         .binaryTarget(
             name: "VesperPlayerSourceNormalizerFfmpegPlugin",
-            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3-rc.2/VesperPlayerSourceNormalizerFfmpegPlugin.xcframework.zip",
-            checksum: "2c8c055366eb6443b704ac103c02106abb71f24a9f94b18c2e65b6cadb69f4a8"
+            url: "https://github.com/umbrella22/Vesper/releases/download/v0.4.3/VesperPlayerSourceNormalizerFfmpegPlugin.xcframework.zip",
+            checksum: "f0687f78347a46ac919184563c68885a221f2de27b021f5578f7989e83afa4ab"
         ),
         .target(
             name: "VesperPlayerKitUI",
